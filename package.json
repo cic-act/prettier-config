@@ -1,0 +1,9 @@
+{
+  "name": "@cic-act/prettier-config",
+  "version": "1.0.0",
+  "description": "Andy's Prettier JavaScript configuration settings",
+  "main": "index.json",
+  "repository": "git@github.com:cic-act/prettier-config.git",
+  "author": "Andy Weaver <andrew_weaver@cinfin.com",
+  "license": "MIT"
+}
